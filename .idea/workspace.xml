@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2394fae-c798-4db1-a461-69d0bbcc96e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bataille_navale_redux.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bataille_navale_redux.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Carrier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Commander.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Destroyer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Dreadnought.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Hit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Position.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Utility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/utility/Color.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>positions</find>
+      <find>setH</find>
+      <find>setHit</find>
+      <find>addHit</find>
+      <find>lastKnownHit</find>
+      <find>touche</find>
+      <find>players</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Newen &lt;newen.haupt@gmail.com&gt;" />
+        <option value="Christopher" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="REBASE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Position.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/fr/newonche/business/utility/Color.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Carrier.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Dreadnought.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Utility.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Destroyer.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Commander.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Ship.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Hit.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/Main.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Game.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Map.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/utility/Color.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Carrier.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Commander.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Destroyer.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Dreadnought.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Game.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Hit.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Map.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Position.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Ship.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/business/Utility.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/btr/Main.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/btr/business/Carrier.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/btr/business/Map.java" />
+        <option value="$PROJECT_DIR$/src/fr/newonche/btr/business/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="224" />
+    <option name="y" value="117" />
+    <option name="width" value="1609" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bataille_navale_redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bataille_navale_redux" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bataille_navale_redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bataille_navale_redux" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bataille_navale_redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bataille_navale_redux" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="btr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bataille_navale_redux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bataille_navale_redux" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="btr" type="462c0819:PsiDirectoryNode" />
+              <item name="business" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bataille_navale_redux" type="58d84e3e:PackageViewProjectNode" />
+              <item name="bataille_navale_redux" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.newonche.fr.newonche.business" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Newen\IdeaProjects\bataille_navale_redux\src\fr\newonche\fr\newonche\business" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="fr.newonche.btr.Main" />
+      <module name="bataille_navale_redux" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2394fae-c798-4db1-a461-69d0bbcc96e8" name="Default Changelist" comment="" />
+      <created>1650730035262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650730035262</updated>
+      <workItem from="1650730036563" duration="844000" />
+      <workItem from="1650741855374" duration="5240000" />
+      <workItem from="1650819621101" duration="12982000" />
+      <workItem from="1650870156091" duration="710000" />
+      <workItem from="1650879276931" duration="53000" />
+      <workItem from="1650896842122" duration="3690000" />
+      <workItem from="1650907547139" duration="3757000" />
+      <workItem from="1650956159483" duration="2106000" />
+      <workItem from="1650978490777" duration="6203000" />
+      <workItem from="1651009234043" duration="304000" />
+      <workItem from="1651009606341" duration="1183000" />
+      <workItem from="1651041930772" duration="1524000" />
+      <workItem from="1651090898812" duration="3783000" />
+      <workItem from="1651128461023" duration="4018000" />
+      <workItem from="1651146985362" duration="1178000" />
+      <workItem from="1651148177404" duration="458000" />
+      <workItem from="1651148676183" duration="5858000" />
+      <workItem from="1651171204560" duration="2082000" />
+      <workItem from="1651215421003" duration="20000" />
+      <workItem from="1651219619838" duration="5259000" />
+      <workItem from="1651264702861" duration="2528000" />
+      <workItem from="1651308946168" duration="5215000" />
+      <workItem from="1651322153556" duration="1628000" />
+      <workItem from="1651406468730" duration="14521000" />
+      <workItem from="1651422602764" duration="4697000" />
+      <workItem from="1651437615963" duration="23000" />
+      <workItem from="1651474937574" duration="9000" />
+      <workItem from="1651780268912" duration="4720000" />
+      <workItem from="1651819271156" duration="1285000" />
+      <workItem from="1651822079602" duration="41000" />
+      <workItem from="1651825216116" duration="4270000" />
+      <workItem from="1651845318068" duration="1030000" />
+      <workItem from="1651929612926" duration="9829000" />
+      <workItem from="1651955029121" duration="163000" />
+      <workItem from="1652079764476" duration="18000" />
+      <workItem from="1652990261101" duration="860000" />
+      <workItem from="1653034236352" duration="3599000" />
+      <workItem from="1653039518638" duration="249000" />
+      <workItem from="1653039787156" duration="449000" />
+      <workItem from="1653040344322" duration="795000" />
+    </task>
+    <task id="LOCAL-00001" summary="Génération Carte &amp; Coup sur Carte">
+      <created>1651171258814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651171258814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Amélioration Game et Map">
+      <created>1651219918969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651219918969</updated>
+    </task>
+    <task id="LOCAL-00003" summary="V1 Jouable (Ennemis Visibles)">
+      <created>1651940273581</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651940273581</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117181000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.4426581" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.28510183" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3290461" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.21543409" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3290461" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5063966" side_tool="true" weight="0.3129689" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2368703" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17697228" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936034" weight="0.3129689" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.28510183" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.21543409" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5063966" side_tool="true" visible="true" weight="0.3129689" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2368703" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Génération Carte &amp; Coup sur Carte" />
+    <MESSAGE value="Amélioration Game et Map" />
+    <MESSAGE value="V1 Jouable (Ennemis Visibles)" />
+    <option name="LAST_COMMIT_MESSAGE" value="V1 Jouable (Ennemis Visibles)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/utility/Color.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Position.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Carrier.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Utility.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Destroyer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-17.0.1/lib/src.zip!/java.base/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="358" column="29" selection-start-line="358" selection-start-column="29" selection-end-line="358" selection-end-column="29" />
+          <folding>
+            <element signature="e#13059#13060#0" expanded="true" />
+            <element signature="e#13127#13128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-17.0.1/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="966" column="12" selection-start-line="966" selection-start-column="12" selection-end-line="966" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Dreadnought.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Game.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Commander.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Ship.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Hit.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/fr/newonche/business/Map.java" />
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Hit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Dreadnought.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Destroyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/Commander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/business/utility/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/btr/Carrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Position.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Utility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/utility/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Dreadnought.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Destroyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Commander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Ship.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Carrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bataille_navale_redux.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fr/newonche/btr/business/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="83" column="13" lean-forward="true" selection-start-line="83" selection-start-column="13" selection-end-line="83" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bataille_navale_redux</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
